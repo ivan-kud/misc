@@ -1,4 +1,4 @@
-## Utility for computing dynamic ADC characteristics
+## adcparam - utility for computing dynamic ADC characteristics
 
 The module is designed to calculate the dynamic characteristics of analog-to-digital converters (ADC) in accordance with the IEEE Std 1241-2010 standard. The calculation is available by two methods: using the approximation of the signal by a sine wave and using the discrete Fourier transform (DFT) into a spectrum.
 
